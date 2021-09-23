@@ -1,2 +1,0 @@
-# MSFTStockdata
-Microsoft Stock Data
